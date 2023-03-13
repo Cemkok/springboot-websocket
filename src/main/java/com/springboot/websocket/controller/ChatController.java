@@ -31,8 +31,6 @@ public class ChatController {
 		messagingTemplate.convertAndSend("/topic", wsMessage);
 		
 		
-		
-		
 	}
 	
 	
